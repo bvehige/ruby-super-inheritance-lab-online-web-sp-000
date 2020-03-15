@@ -7,7 +7,7 @@ def hello
 end
 
 def raise_hand
-  super.times10
+  10.times super 
   
   
 
