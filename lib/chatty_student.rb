@@ -9,7 +9,7 @@ end
 def raise_hand
    super 
    10.times
-   prints "Pick me!"
+   print "Pick me!"
 end
   
 end
